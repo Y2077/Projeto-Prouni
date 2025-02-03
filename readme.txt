@@ -7,6 +7,7 @@
 🌱 Em busca de me especializa em ML e Cloud.
 
 📫 Me encontre no LinkedIn: www.linkedin.com/in/ynara-favoretto
+   E no tableau: https://public.tableau.com/app/profile/ynara.favoretto/vizzes
 
 🚀 Veja mais do meu portifólio no GitHub!
 
